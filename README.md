@@ -11,13 +11,13 @@ Authors: 陳虹妤、張朝凱
 1. 去 **micro:bit** 網站：開啟 https://makecode.microbit.org/
 
 2. 按一下**匯入**
-![image](https://hackmd.io/_uploads/BJp1enO3C.png)
+![image](https://github.com/user-attachments/assets/c397cdcb-12aa-4c57-8da2-e351fce8a99a)
 
 3. 按一下**匯入 URL**
-![image](https://hackmd.io/_uploads/SyhVx3_h0.png)
+![image](https://github.com/user-attachments/assets/8d2a8c3b-9d0b-4618-8f1b-555bc263ef2a)
 
 4. 貼上 https://github.com/chenhyuu/eazymouse 
-![image](https://hackmd.io/_uploads/Hkbde3unA.png)
+![image](https://github.com/user-attachments/assets/e59c604e-65dc-4e6b-bd07-dd7481d9e96e)
 
 5. 按下**匯入**就可以了
 
